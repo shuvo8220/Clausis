@@ -1,6 +1,6 @@
 # Legal AI — Document Understanding & Grounded Drafting
 
-An industry-level AI pipeline for processing messy legal documents, extracting structured content, retrieving relevant evidence, generating grounded drafts, and continuously improving from operator edits.
+An industry level AI pipeline for processing messy legal documents, extracting structured content, retrieving relevant evidence, generating grounded drafts, and continuously improving from operator edits.
 
 ##  Key Features
 
