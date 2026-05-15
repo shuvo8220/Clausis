@@ -2,12 +2,12 @@
 
 An industry-level AI pipeline for processing messy legal documents, extracting structured content, retrieving relevant evidence, generating grounded drafts, and continuously improving from operator edits.
 
-## 🚀 Key Features
+##  Key Features
 
 - **Multi-format Document Processing**: PDF, TXT, images with OCR fallback
 - **Grounded RAG Pipeline**: Evidence-based generation with full traceability
 - **Continuous Improvement**: Learns from operator edits to improve future drafts
-- **Pluggable LLM Support**: OpenAI GPT-4 or Groq Llama 3.3
+- **Pluggable LLM Support**: OpenAI openai/gpt-oss-20b or  openai/gpt-oss-120b
 - **LangGraph Workflows**: Orchestrated multi-step processes
 - **SOLID Architecture**: Industry-standard design patterns
 - **React Frontend**: Modern, responsive UI
@@ -15,7 +15,7 @@ An industry-level AI pipeline for processing messy legal documents, extracting s
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Quick Start](#quick-start)
 - [Architecture](#architecture)
@@ -29,7 +29,7 @@ An industry-level AI pipeline for processing messy legal documents, extracting s
 
 ---
 
-## 🎯 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -138,7 +138,7 @@ docker-compose up --build
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 This project follows **SOLID principles** and industry-standard design patterns. See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed documentation.
 
@@ -177,7 +177,7 @@ This project follows **SOLID principles** and industry-standard design patterns.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **FastAPI** - Modern Python web framework
@@ -204,7 +204,7 @@ This project follows **SOLID principles** and industry-standard design patterns.
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Document Endpoints
 
@@ -284,7 +284,7 @@ GET /health
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -325,7 +325,7 @@ CORS_ORIGINS=http://localhost:3000,http://localhost:5173
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Run all tests
@@ -340,7 +340,7 @@ pytest tests/test_pipeline.py -v
 
 ---
 
-## 🚢 Deployment
+##  Deployment
 
 ### Docker Production Deployment
 
@@ -362,7 +362,7 @@ docker-compose -f docker-compose.prod.yml up -d
 
 ---
 
-## 📖 Usage Examples
+##  Usage Examples
 
 ### 1. Upload and Process Document
 
@@ -411,7 +411,7 @@ response = requests.post(
 
 ---
 
-## 🎨 Design Principles
+##  Design Principles
 
 ### SOLID Principles
 
@@ -432,7 +432,7 @@ response = requests.post(
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
@@ -442,13 +442,13 @@ response = requests.post(
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built for Pearson Specter Litt AI Engineering Assessment
 - Uses OpenAI GPT-4 and Groq Llama 3.3
@@ -456,13 +456,13 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions or support, please contact the development team.
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Real-time collaboration with WebSockets
 - [ ] Advanced analytics dashboard
