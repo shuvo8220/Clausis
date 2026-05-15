@@ -1,0 +1,81 @@
+MERIDIAN CONSTRUCTION GROUP, INC.
+4500 Sepulveda Blvd., Suite 300
+Culver City, CA 90230
+Tel: (310) 555-0192
+
+February 20, 2023
+
+VIA CERTIFIED MAIL AND EMAIL
+
+Mr. Robert Hartwell
+Managing Member
+Hartwell Properties LLC
+1200 Wilshire Blvd., Suite 800
+Los Angeles, CA 90025
+
+RE: Notice of Delay and Force Majeure Event
+    Project: 800 S. Flower Street Renovation
+    Contract Date: September 1, 2022
+    Our File: MCG-2022-0847
+
+Dear Mr. Hartwell:
+
+Pursuant to Section 12.3 of the Construction Services Agreement dated September 1, 2022 
+(the "Agreement"), Meridian Construction Group, Inc. hereby provides formal notice of 
+a delay event affecting the above-referenced project.
+
+NATURE OF DELAY
+
+Beginning in November 2022, Meridian experienced severe disruptions to its supply 
+chain affecting the following critical path items:
+
+1. HVAC units (Carrier model 50XC-Series): 16-week backorder from manufacturer
+2. Electrical switchgear panels (Cutler-Hammer Distribution Series): 12-week delay
+3. Elevator components (OTIS Gen2 system): 20-week supply disruption
+
+These delays were caused by ongoing global semiconductor shortages and post-pandemic 
+supply chain instability, circumstances entirely outside Meridian's control or 
+reasonable anticipation at the time of contract execution.
+
+CONTRACTUAL BASIS
+
+Article 14 of the Agreement provides for force majeure relief in the event of delays 
+caused by circumstances beyond the reasonable control of the contractor, including 
+material shortages. Meridian invokes this provision as justification for the delay.
+
+Meridian requests a contract extension of not less than one hundred twenty (120) 
+calendar days from the original substantial completion date of March 1, 2023.
+
+CURRENT PROJECT STATUS (as of February 18, 2023)
+
+Completed:
+- Structural work: 100%
+- Exterior facade: 100%
+- Floors 1 and 2 interior buildout: 95%
+- Plumbing (all floors): 88%
+
+Pending (awaiting materials):
+- HVAC installation: 40% (equipment on order)
+- Electrical: floors 3-4: 30% (switchgear pending)
+- Elevator modernization: 15% (components in transit)
+
+RESERVATION OF RIGHTS
+
+Meridian expressly reserves all rights under the Agreement, including but not limited to 
+claims for additional compensation for extended general conditions costs incurred as a 
+result of the delay, which are estimated at $12,500.00 per month.
+
+Please confirm receipt of this notice within five (5) business days per Section 12.4 
+of the Agreement.
+
+Sincerely,
+
+/s/ Patricia R. Donnelly
+Patricia R. Donnelly
+Vice President, Operations
+Meridian Construction Group, Inc.
+
+cc: MCG Legal File
+    Project Manager: Kevin Tran
+
+[STAMP - partially obscured: RECEIVED BY HARTWELL... date smudged ...2023]

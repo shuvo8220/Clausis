@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Data
+data/legal_ai.db
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation
+*.md
+!README.md
+
+# Scripts
+*.bat
+*.sh
+!start.sh
+
+# Logs
+*.log
+
+# Environment
+.env.local
+.env.*.local

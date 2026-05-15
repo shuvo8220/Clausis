@@ -1,0 +1,28 @@
+services:
+  # Backend API (using SQLite - no PostgreSQL needed)
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - LLM_PROVIDER=${LLM_PROVIDER:-groq}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - DATABASE_URL=sqlite:///./data/legal_ai.db
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  # Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - api
+    restart: unless-stopped
+
