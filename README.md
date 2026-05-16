@@ -295,8 +295,8 @@ OPENAI_API_KEY=sk-...
 GROQ_API_KEY=gsk_...
 
 # Models
-OPENAI_MODEL=gpt-4o
-GROQ_MODEL=llama-3.3-70b-versatile
+OPENAI_MODEL=openai/gpt-oss-20b
+GROQ_MODEL= openai/gpt-oss-120b
 
 # Database
 DATABASE_URL=postgresql://user:pass@localhost:5432/legal_ai
@@ -451,7 +451,7 @@ This project is licensed under the MIT License.
 ##  Acknowledgments
 
 - Built for Pearson Specter Litt AI Engineering Assessment
-- Uses OpenAI GPT-4 and Groq Llama 3.3
+- Uses OpenAI openai/gpt-oss-20b or  openai/gpt-oss-120b
 - Powered by LangGraph, FastAPI, and React
 
 ---
